@@ -1,30 +1,48 @@
-# Calculator Project
+# Pro Calculator
 
 ## Description
-This is a simple calculator project created using HTML for basic arithmetic operations.  
-It is built as part of my learning during my 3rd year of Computer Science Engineering.
+Pro Calculator is a simple and interactive web-based calculator developed using HTML, CSS, and JavaScript.  
+It supports basic arithmetic operations and includes a theme toggle feature to switch between light and dark modes.
 
 ## Technologies Used
-- HTML
+- HTML5
+- CSS3
+- JavaScript
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Simple and easy-to-use interface
+- Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+- Clear (C) button to reset input
+- Theme toggle (Light / Dark mode)
+- Clean and user-friendly interface
+- Responsive layout
+
+## Calculator Functions
+- Number input using buttons
+- Operator handling (+, -, *, /)
+- Display screen for input and results
+- Equal (=) button to calculate result
 
 ## How to Use
-1. Open the calculator in a web browser.
-2. Enter numbers.
-3. Choose the required operation.
-4. View the result instantly.
+1. Clone or download the repository.
+2. Ensure `index.html`, `style.css`, and `script.js` are in the same folder.
+3. Open `index.html` in a web browser.
+4. Use the buttons to perform calculations.
+5. Click the theme toggle button to change theme.
 
 ## Purpose
 This project helped me understand:
-- Basic HTML structure
-- Input handling
-- Simple logic for calculations
+- DOM manipulation using JavaScript
+- Event handling
+- UI design with CSS
+- Implementing basic logic for calculations
+- Adding interactive features like theme switching
+
+## Future Improvements
+- Add keyboard support
+- Include advanced calculations
+- Improve animations and transitions
+- Make the calculator fully mobile optimized
 
 ## Author
-Dhanalakshmi K
+Dhanalakshmi  
+BE Computer Science Engineering Student
